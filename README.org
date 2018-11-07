@@ -11,4 +11,8 @@
   I have slightly modified this incarnation of P4wn and concatenated
   the code in one file.
 
-  Point your browser to it and see it in action yourself: [[chess.svg]]!
+  Point your browser to it and see it in action yourself! (If it
+  doesn't animate, click on the image, then right-click and "View
+  image" at least on Firefox.)
+
+  [[chess.svg]]
