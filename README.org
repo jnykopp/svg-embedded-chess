@@ -1,0 +1,14 @@
+* Chess embedded in SVG
+
+  This is a silly project that embeds a chess engine that plays agaist
+  itself in a self-contained SVG file.
+
+  The engine is "P4wn" written by Douglas Bagnall
+  (https://github.com/douglasbagnall/p4wn), version
+  e4bb22926b288c4d8443d25466efb5f2e839ff66, which is licensed with CC0
+  and is in the public domain.
+
+  I have slightly modified this incarnation of P4wn and concatenated
+  the code in one file.
+
+  Point your browser to it and see it in action yourself: [[chess.svg]]!
